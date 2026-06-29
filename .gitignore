@@ -1,0 +1,19 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Môi trường ảo (Virtual Environments)
+venv/
+.venv/
+env/
+.env/
+
+# Cấu hình IDE (VSCode, PyCharm)
+.vscode/
+.idea/
+
+# File hệ thống (Windows/macOS)
+.DS_Store
+Thumbs.db
+Desktop.ini
