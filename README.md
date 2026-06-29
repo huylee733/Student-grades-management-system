@@ -7,7 +7,7 @@ Dự án "Hệ thống Quản lý Điểm Sinh Viên" là một phần mềm Des
 - **Đơn vị:** Trường Đại học Thăng Long
 - **Giảng viên hướng dẫn:** ThS. Nguyễn Hùng Cường
 
-- **Thành viên:**
+**Thành viên:**
 - A49828 Nguyễn Hồng Sơn
 - A49971 Lê Nguyễn Nhật Huy
 - A56677 Lê Quang Khải
