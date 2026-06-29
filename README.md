@@ -132,6 +132,6 @@ Nếu bạn sử dụng repository này, vui lòng trích dẫn:
   author       = {Huynh Hai Nam and Le Nguyen Nhat Huy and Nguyen Hong Son and Le Quang Khai},
   year         = {2025},
   howpublished = {GitHub repository},
-  url          = {https://github.com/duy1sme/NCKH-3D-Face-Recognition}
+  url          = {https://github.com/huylee733/Student-grades-management-system.git}
 }
 ```
